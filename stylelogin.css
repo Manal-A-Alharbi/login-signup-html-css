@@ -1,0 +1,94 @@
+body{
+    background-color: #2C3333;
+    color: #E7F6F2;
+}
+
+.login{
+    border-radius: 12px;
+    width: 30%;
+    /* height: 45%; */
+    background-color: #395B64;
+    border: 0.5px solid #62898b; 
+}
+.login:hover{
+    border-radius: 12px;
+    width: 30%;
+    /* height: 45%; */
+    background-color: #395B64;
+    border: 2.5px solid #709b9c; 
+}
+.signup{
+    border-radius: 12px;
+    width: 30%;
+    /* height: 45%; */
+    background-color: #395B64;
+    border: 0.5px solid #62898b; 
+}
+.signup:hover{
+    border-radius: 12px;
+    width: 30%;
+    /* height: 45%; */
+    background-color: #395B64;
+    border: 2.5px solid #709b9c; 
+}
+input{
+    border-radius: 50px;
+    width: 75%;
+    height: 27.5px;
+    font-size: 18px;
+    background-color: #EEF2E6;
+    border: 1px solid #303030b0;
+}
+input:hover{
+    border-radius: 50px;
+    width: 75%;
+    height: 27.5px;
+    font-size: 18px;
+    background-color: #bcc2b1;
+    /* border: 2.5px solid #303030b0; */
+}
+h1{
+    font-size: 40px;
+    text-shadow: 3px 3px  black ; 
+}
+h3{
+    font-size: 23px ;
+}
+button{
+    border-radius: 10px;
+    width: 22%;
+    height: 30px;
+    background-color: #93b3c0;
+    border: 0px;
+    font-size: 95%;
+    font-weight: bold;
+    /* font-family: 'Times New Roman', Times, serif; */
+    color: #395B64;
+    /* color:#B7D3DF ; */
+    text-shadow: 0.5px 0.5px #303030b0   ; 
+}
+button:hover{
+    border-radius: 10px;
+    width: 22%;
+    height: 30px;
+    background-color: #7c9aa8;
+    border: 0px;
+    font-size: 95%;
+    font-weight: bold;
+    /* font-family: 'Times New Roman', Times, serif; */
+    color: #395B64;
+    /* color:#B7D3DF ; */
+
+}
+a{
+    text-decoration: none;
+    color: #E7F6F2;
+    font-size: 18px;
+    text-shadow: 2px 2px   #17202a   ; 
+}
+a:hover{
+    text-decoration: underline;
+    color: #A5C9CA;
+    font-size: 18px;
+    text-shadow: 2px 2px   #17202a   ; 
+}
